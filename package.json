@@ -1,0 +1,9 @@
+{
+  "name": "hof-claims-watch",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Finds email templates and sent emails claiming HOF has or works with an attorney or a former USCIS officer.",
+  "type": "commonjs",
+  "engines": { "node": ">=18" },
+  "scripts": { "start": "node watch.js", "test": "node selftest.js" }
+}
